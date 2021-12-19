@@ -1,0 +1,14 @@
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.exe
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.deps.json
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.runtimeconfig.json
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.runtimeconfig.dev.json
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.dll
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\netcoreapp3.1\ConsoleApp33.pdb
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.csproj.AssemblyReference.cache
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.AssemblyInfoInputs.cache
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.AssemblyInfo.cs
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.csproj.CoreCompileInputs.cache
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.dll
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.pdb
+C:\Users\OBPRemote9\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\netcoreapp3.1\ConsoleApp33.genruntimeconfig.cache
